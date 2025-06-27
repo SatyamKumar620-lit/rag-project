@@ -1,0 +1,12 @@
+transformers
+datasets
+sentence-transformers
+chromadb
+langchain
+openai
+ragas
+streamlit
+python-dotenv
+google-generativeai 
+langchain-google-genai
+langchain_huggingface
