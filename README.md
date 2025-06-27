@@ -106,11 +106,7 @@ Visualizations of quote/tag distributions
 
 Full RAGAS integration for auto evaluation
 
-📹 Deliverables
-✅ Jupyter/Colab scripts or .py files
-✅ Working Streamlit app
-✅ README and code walkthrough
-✅ Sample queries and evaluation discussion
+PLEASE REMEMBER TO ENTER YOUR API KEY IN .env file
 
 📜 License
 MIT License — feel free to fork and extend.
